@@ -19,6 +19,7 @@ A graph-based multi-label node classification framework combining GraphVAE-based
 - *OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion* - Oral presentation, Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong.
 
 **Research Mentoring**
+
 Mentored 15+ teams on fundamentals of research and academic writing.
 
 ### Experience

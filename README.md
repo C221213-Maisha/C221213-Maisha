@@ -11,6 +11,7 @@ CSE graduate with hands-on experience across the full research lifecycle (experi
 ### Research
 
 **NEXARIS (BSc Thesis, defended 2025-2026)**
+
 Research on graph-based multi-label node classification, focusing on learning under class imbalance and evolving graph structures.
 
 **Publications**

@@ -18,6 +18,9 @@ A graph-based multi-label node classification framework combining GraphVAE-based
 - *KNOW-NET: A Knowledge-Aware Cross-Attention Network with NER for Fake News Classification* - IEEE QPAIN 2026. 0.9855 F1-score and accuracy on the Kaggle Fake News dataset, a 1.41% absolute improvement over DEAP-FAKED (p < 0.0001), with real-time inference at 15 ms/sample. [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546260)
 - *OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion* - Oral presentation, Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong.
 
+**Research Mentoring**
+Mentored 15+ teams on fundamentals of research and academic writing.
+
 ### Experience
 
 **AI Technical Lead (Project-Based), Contradox** - Oct 2025 to present
@@ -48,6 +51,14 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 **Research methods:** Experimental design, ablation studies, statistical hypothesis testing, technical writing
 
 **Tools:** Git, GitHub, VS Code, Jupyter, LaTeX
+
+### Academic Service
+ 
+**Data Annotator, IIUC Intra University Datathon 2026** (part of IIUC CSE Fest 2026)
+Manually annotated 7,900+ image-text pairs for a disaster-related dataset within a 4-5 day window, as part of a twelve-member volunteer team. The dataset is now publicly available on [Mendeley Data](https://data.mendeley.com/datasets/yzjz55sy97/1).
+ 
+**Volunteer, IIUC Intra University Datathon 2026**
+Supported event operations for the datathon under IIUC CSE Fest 2026.
 
 ### Education
 

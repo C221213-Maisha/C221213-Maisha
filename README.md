@@ -14,26 +14,26 @@ CSE graduate with hands-on experience across the full research lifecycle (experi
 A graph-based multi-label node classification framework combining GraphVAE-based synthetic node generation, KNN-based pseudo-labeling of borderline nodes, and drift-based temporal adaptation. Evaluated across social networks, citation networks, computational biology, and financial transaction domains, with a cross-domain transfer learning extension. Validated using paired t-tests, Wilcoxon signed-rank tests, Holm-Bonferroni correction, and Cohen's d.
 
 **Publications**
-- *A Novel Association Rule Mining Approach Based on Bio-Inspired Algorithms for Air Quality Analysis in Dhaka, Bangladesh* — IEEE QPAIN 2025. Hybrid GA-PSO algorithm with 87% better memory efficiency than Apriori and improved rule quality (mean confidence 0.936 vs 0.718, p = 0.0002). [DOI](https://doi.org/10.1109/QPAIN66474.2025.11172200)
-- *KNOW-NET: A Knowledge-Aware Cross-Attention Network with NER for Fake News Classification* — IEEE QPAIN 2026. 0.9855 F1-score and accuracy on the Kaggle Fake News dataset, a 1.41% absolute improvement over DEAP-FAKED (p < 0.0001), with real-time inference at 15 ms/sample. [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546260)
-- *OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion* — Oral presentation, Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong.
+- *A Novel Association Rule Mining Approach Based on Bio-Inspired Algorithms for Air Quality Analysis in Dhaka, Bangladesh* - IEEE QPAIN 2025. Hybrid GA-PSO algorithm with 87% better memory efficiency than Apriori and improved rule quality (mean confidence 0.936 vs 0.718, p = 0.0002). [DOI](https://doi.org/10.1109/QPAIN66474.2025.11172200)
+- *KNOW-NET: A Knowledge-Aware Cross-Attention Network with NER for Fake News Classification* - IEEE QPAIN 2026. 0.9855 F1-score and accuracy on the Kaggle Fake News dataset, a 1.41% absolute improvement over DEAP-FAKED (p < 0.0001), with real-time inference at 15 ms/sample. [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546260)
+- *OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion* - Oral presentation, Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong.
 
 ### Experience
 
-**AI Technical Lead (Project-Based), Contradox** — Oct 2025 to present
+**AI Technical Lead (Project-Based), Contradox** - Oct 2025 to present
 Lead a team building AI systems for real-world use, coordinating research, backend, and frontend work, and owning decisions on system architecture and model integration.
 
-**Teaching Assistant, IIUC** — Feb 2025 to present
+**Teaching Assistant, IIUC** - Feb 2025 to present
 Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programming Sessionals, and Technical Writing and Presentation, across CSE and EEE departments.
 
 ### Selected Projects
 
-- **StudyDesk** — Django-based study management platform: class scheduling, material organization, progress tracking, and AI-generated quizzes via the Gemini API
-- **Smart-Farming-Assistant** — AI web application with three specialized chatbots for gardening guidance, built on a RAG pipeline with Python and Django
-- **Plagiarism-Checker** — Web-based plagiarism detection tool
-- **Root-Finding-Algorithms-Visualizer** — Interactive visualizer for numerical root-finding methods
-- **Advanced-Task-Scheduler** — Task scheduling application in Python
-- **Food-Delivery-Website** — Food ordering and delivery web interface
+- **StudyDesk** - Django-based study management platform: class scheduling, material organization, progress tracking, and AI-generated quizzes via the Gemini API
+- **Smart-Farming-Assistant** - AI web application with three specialized chatbots for gardening guidance, built on a RAG pipeline with Python and Django
+- **Plagiarism-Checker** - Web-based plagiarism detection tool
+- **Root-Finding-Algorithms-Visualizer** - Interactive visualizer for numerical root-finding methods
+- **Advanced-Task-Scheduler** - Task scheduling application in Python
+- **Food-Delivery-Website** - Food ordering and delivery web interface
 
 ### Skills
 

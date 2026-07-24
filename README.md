@@ -11,7 +11,7 @@ CSE graduate with hands-on experience across the full research lifecycle (experi
 ### Research
 
 **NEXARIS (BSc Thesis, defended 2025-2026)**
-A graph-based multi-label node classification framework combining GraphVAE-based synthetic node generation, KNN-based pseudo-labeling of borderline nodes, and drift-based temporal adaptation. Evaluated across social networks, citation networks, computational biology, and financial transaction domains, with a cross-domain transfer learning extension. Validated using paired t-tests, Wilcoxon signed-rank tests, Holm-Bonferroni correction, and Cohen's d.
+Research on graph-based multi-label node classification, focusing on learning under class imbalance and evolving graph structures.
 
 **Publications**
 - *A Novel Association Rule Mining Approach Based on Bio-Inspired Algorithms for Air Quality Analysis in Dhaka, Bangladesh* - IEEE QPAIN 2025. Hybrid GA-PSO algorithm with 87% better memory efficiency than Apriori and improved rule quality (mean confidence 0.936 vs 0.718, p = 0.0002). [DOI](https://doi.org/10.1109/QPAIN66474.2025.11172200)

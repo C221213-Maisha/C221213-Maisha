@@ -68,7 +68,7 @@ B.Sc. in Computer Science and Engineering
 
 International Islamic University Chittagong (Jan 2022 to 2026)
 
-CGPA 3.716/4.00
+CGPA 3.72/4.00
 
 ### Contact
 

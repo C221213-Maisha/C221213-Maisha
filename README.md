@@ -38,10 +38,15 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 ### Skills
 
 **Languages:** Python, C++, C#, JavaScript
+
 **Web:** Django, HTML, CSS, PHP
+
 **AI/ML:** Machine learning, deep learning, NLP, RAG, graph neural networks, bio-inspired optimization (GA, PSO), explainability (SHAP, LIME)
+
 **Databases:** MySQL, SQLite, database design
+
 **Research methods:** Experimental design, ablation studies, statistical hypothesis testing, technical writing
+
 **Tools:** Git, GitHub, VS Code, Jupyter, LaTeX
 
 ### Education

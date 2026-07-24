@@ -47,10 +47,13 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 ### Education
 
 B.Sc. in Computer Science and Engineering
+
 International Islamic University Chittagong (Jan 2022 to 2026)
+
 CGPA 3.716/4.00
 
 ### Contact
 
 LinkedIn: [linkedin.com/in/mahfuza-maisha](https://linkedin.com/in/mahfuza-maisha)
+
 Email: maisha.mahfuza13@gmail.com

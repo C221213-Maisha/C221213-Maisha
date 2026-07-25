@@ -41,7 +41,7 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 | [StudyDesk](https://github.com/C221213-Maisha/StudyDesk) | Django-based study management platform: class scheduling, material organization, progress tracking, and AI-generated quizzes via the Gemini API | Python, Django, SQLite |
 | [Urban-Gardening-Assistant](https://github.com/C221213-Maisha/Urban-Gardening-Assistant) | AI web application with three specialized chatbots for gardening guidance, built on a RAG pipeline | Python, Django, RAG |
 | [Online-Assignment-Plagiarism-Checker](https://github.com/C221213-Maisha/Online-Assignment-Plagiarism-Checker) | Self-hosted web-based plagiarism detection tool comparing text submissions locally | PHP, MySQL, C++ |
-| [Root-Finding-Algorithms-Visualizer](https://github.com/C221213-Maisha/Root-Finding-Algorithms-Visualizer) | Interactive visualizer for five numerical root-finding methods with live convergence charts | JavaScript, Chart.js, math.js |
+| [Student-Course-Management-System](https://github.com/C221213-Maisha/Student-Course-Management-System) | Desktop application for student, course, and score management with authentication, CRUD operations, and SQL Server database integration | C#, Windows Forms, SQL Server |
 | [Advanced-Task-Scheduler](https://github.com/C221213-Maisha/Advanced-Task-Scheduler) | CPU scheduling simulator implementing FCFS, SJF, Priority, and Round Robin algorithms | Python, Django |
 | [Journey-Planner](https://github.com/C221213-Maisha/Journey-Planner) | Console application implementing Dijkstra's Algorithm and DFS for route planning over a graph-modeled map | C++ |
 

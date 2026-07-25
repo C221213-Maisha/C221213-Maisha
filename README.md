@@ -13,27 +13,46 @@
 CSE graduate from International Islamic University Chittagong (IIUC) with hands-on experience across the full research lifecycle (experimental design, implementation, ablation studies, statistical validation) and full-stack development (Django, relational databases, UI). Author of two Scopus-indexed IEEE conference papers and a completed B.Sc thesis, NEXARIS, on graph-based multi-label node classification. Currently serving as AI Technical Lead at Contradox and as a Teaching Assistant for Machine Learning, Programming, and Technical Writing courses at IIUC.
 
 ## Research
-
+ 
+![Thesis](https://img.shields.io/badge/BSc%20Thesis-NEXARIS-2C3E50?style=flat-square&logo=graphql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Defended%202025--2026-2C3E50?style=flat-square)
+ 
 **NEXARIS**, BSc Thesis, defended 2025 to 2026
-
+ 
 Research on graph-based multi-label node classification, focusing on learning under class imbalance and evolving graph structures.
-
+ 
 **Publications**
-
+ 
+![QPAIN 2025](https://img.shields.io/badge/IEEE%20QPAIN-2025-2C3E50?style=flat-square&logo=ieee&logoColor=white)
+![QPAIN 2026](https://img.shields.io/badge/IEEE%20QPAIN-2026-2C3E50?style=flat-square&logo=ieee&logoColor=white)
+![Scholars Convergence](https://img.shields.io/badge/Scholars'%20Convergence-2026-2C3E50?style=flat-square&logo=googlescholar&logoColor=white)
+ 
 | Paper | Venue | Highlights |
 |---|---|---|
 | [A Novel Association Rule Mining Approach Based on Bio-Inspired Algorithms for Air Quality Analysis in Dhaka, Bangladesh](https://doi.org/10.1109/QPAIN66474.2025.11172200) | IEEE QPAIN 2025 | Hybrid GA-PSO algorithm, 87% better memory efficiency than Apriori, mean confidence 0.936 vs 0.718 (p = 0.0002) |
 | [KNOW-NET: A Knowledge-Aware Cross-Attention Network with NER for Fake News Classification](https://doi.org/10.1109/QPAIN69676.2026.11546260) | IEEE QPAIN 2026 | 0.9855 F1-score and accuracy on the Kaggle Fake News dataset, 1.41% absolute improvement over DEAP-FAKED (p < 0.0001), 15 ms/sample inference |
 | OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion | Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong | An explainable physics-guided deep learning framework that combines optimized cross-attention, multi-task learning, and geophysical constraints to improve seismic inversion accuracy and interpretability for subsurface imaging. |
-
+ 
+**Research Mentoring**
+ 
+![Mentoring](https://img.shields.io/badge/Research%20Mentoring-15%2B%20Teams-2C3E50?style=flat-square&logo=readthedocs&logoColor=white)
+ 
+Mentored 15+ teams on fundamentals of research and academic writing.
+ 
 ## Experience
-
+ 
+![Contradox](https://img.shields.io/badge/Contradox-AI%20Technical%20Lead-2C3E50?style=flat-square&logo=vercel&logoColor=white)
+![Duration](https://img.shields.io/badge/Oct%202025-Present-2C3E50?style=flat-square)
+ 
 **AI Technical Lead (Project-Based), Contradox**, Oct 2025 to present
-
+ 
 Lead a team building AI systems for real-world use, coordinating research, backend, and frontend work, and owning decisions on system architecture and model integration.
-
+ 
+![IIUC](https://img.shields.io/badge/IIUC-Teaching%20Assistant-2C3E50?style=flat-square&logo=googleclassroom&logoColor=white)
+![Duration](https://img.shields.io/badge/Feb%202025-Present-2C3E50?style=flat-square)
+ 
 **Teaching Assistant, IIUC**, Feb 2025 to present
-
+ 
 Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programming Sessionals, and Technical Writing and Presentation, across the CSE and EEE departments.
 
 ## Selected Projects

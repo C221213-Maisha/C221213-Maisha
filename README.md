@@ -10,7 +10,7 @@
 
 ## About
 
-CSE graduate from International Islamic University Chittagong (IIUC) with hands-on experience across the full research lifecycle (experimental design, implementation, ablation studies, statistical validation) and full-stack development (Django, relational databases, UI). Author of two Scopus-indexed IEEE conference papers and a completed thesis, NEXARIS, on graph-based multi-label node classification. Currently serving as AI Technical Lead at Contradox and as a Teaching Assistant for Machine Learning, Programming, and Technical Writing courses at IIUC.
+CSE graduate from International Islamic University Chittagong (IIUC) with hands-on experience across the full research lifecycle (experimental design, implementation, ablation studies, statistical validation) and full-stack development (Django, relational databases, UI). Author of two Scopus-indexed IEEE conference papers and a completed B.Sc thesis, NEXARIS, on graph-based multi-label node classification. Currently serving as AI Technical Lead at Contradox and as a Teaching Assistant for Machine Learning, Programming, and Technical Writing courses at IIUC.
 
 ## Research
 
@@ -86,6 +86,14 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 
 ## Certifications & Training
 
+**Training**
+
+![Django Training](https://img.shields.io/badge/Django%20Training-CUET%20%7C%20EDGE%20Project-2C3E50?style=flat-square&logo=django&logoColor=white) 2025
+
+![C++ Bootcamp](https://img.shields.io/badge/C%2B%2B%20Bootcamp-Phitron%20%7C%20Best%20Performer-2C3E50?style=flat-square&logo=cplusplus&logoColor=white) 2024
+
+![Front-End Bootcamp](https://img.shields.io/badge/Front--End%20Bootcamp-Programming%20Hero-2C3E50?style=flat-square&logo=html5&logoColor=white) 2024
+
 **Teaching**
 
 ![TA Certificate](https://img.shields.io/badge/TA%20Certificate-Dept.%20of%20EEE%2C%20IIUC-2C3E50?style=flat-square&logo=googleclassroom&logoColor=white) Feb 2026 to Jul 2026
@@ -101,14 +109,6 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 ![Certificate of Appreciation](https://img.shields.io/badge/Certificate%20of%20Appreciation-Volunteer-B7950B?style=flat-square) IIUC Intra University Datathon 2026
 
 ![Grand Finalist](https://img.shields.io/badge/Infinity%20AI%20BuildFest-Grand%20Finalist%20(Top%20200%20of%20600%2B)-B7950B?style=flat-square) CloudCamp Bangladesh and BRAC University, 2026
-
-**Training**
-
-![Django Training](https://img.shields.io/badge/Django%20Training-CUET%20%7C%20EDGE%20Project-2C3E50?style=flat-square&logo=django&logoColor=white) 2025
-
-![C++ Bootcamp](https://img.shields.io/badge/C%2B%2B%20Bootcamp-Phitron%20%7C%20Best%20Performer-2C3E50?style=flat-square&logo=cplusplus&logoColor=white) 2024
-
-![Front-End Bootcamp](https://img.shields.io/badge/Front--End%20Bootcamp-Programming%20Hero-2C3E50?style=flat-square&logo=html5&logoColor=white) 2024
 
 ## Academic Service
 

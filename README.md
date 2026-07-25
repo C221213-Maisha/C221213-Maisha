@@ -134,11 +134,13 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 ![Data Annotator](https://img.shields.io/badge/Data%20Annotator-IIUC%20Datathon%202026-B7950B?style=flat-square&logo=mendeley&logoColor=white)
 
 **Data Annotator, IIUC Intra University Datathon 2026** (part of IIUC CSE Fest 2026)
+
 Manually annotated 7,900+ image-text pairs for a disaster-related dataset within a 4 to 5 day window, as part of a twelve-member volunteer team. The dataset is publicly available on [Mendeley Data](https://data.mendeley.com/datasets/yzjz55sy97/1).
 
 ![Volunteer](https://img.shields.io/badge/Volunteer-IIUC%20Datathon%202026-2C3E50?style=flat-square)
 
 **Volunteer, IIUC Intra University Datathon 2026**
+
 Supported event operations for the datathon under IIUC CSE Fest 2026.
 
 ## Education

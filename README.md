@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mahfuza Maisha
-
-Computer Science and Engineering graduate working across applied machine learning, graph-based research, and full-stack web development.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=180&section=header&text=Mahfuza%20Maisha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=AI/ML%20Researcher%20%7C%20Graph%20Learning%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=62)
 
 [![Email](https://img.shields.io/badge/Email-maisha.mahfuza13%40gmail.com-2C3E50?style=flat-square&logo=gmail&logoColor=white)](mailto:maisha.mahfuza13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahfuza--maisha-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfuza-maisha)
@@ -10,11 +8,11 @@ Computer Science and Engineering graduate working across applied machine learnin
 
 </div>
 
----
-
 ## About
 
 CSE graduate from International Islamic University Chittagong (IIUC) with hands-on experience across the full research lifecycle (experimental design, implementation, ablation studies, statistical validation) and full-stack development (Django, relational databases, UI). Author of two Scopus-indexed IEEE conference papers and a completed thesis, NEXARIS, on graph-based multi-label node classification. Currently serving as AI Technical Lead at Contradox and as a Teaching Assistant for Machine Learning, Programming, and Technical Writing courses at IIUC.
+
+<br>
 
 ## Research
 
@@ -30,6 +28,8 @@ A graph-based multi-label node classification framework with modules for synthet
 | [KNOW-NET: A Knowledge-Aware Cross-Attention Network with NER for Fake News Classification](https://doi.org/10.1109/QPAIN69676.2026.11546260) | IEEE QPAIN 2026 | 0.9855 F1-score and accuracy on the Kaggle Fake News dataset, 1.41% absolute improvement over DEAP-FAKED (p < 0.0001), 15 ms/sample inference |
 | OFA-Seis: Optimized Fusion Attention with Physics-Guided Multi-Task Learning for High-Resolution and Explainable Seismic Inversion | Oral presentation, Scholars' Convergence: Research & Innovation Summit 2026, CUSS, University of Chittagong | |
 
+<br>
+
 ## Experience
 
 **AI Technical Lead (Project-Based), Contradox**, Oct 2025 to present
@@ -37,6 +37,8 @@ Lead a team building AI systems for real-world use, coordinating research, backe
 
 **Teaching Assistant, IIUC**, Feb 2025 to present
 Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programming Sessionals, and Technical Writing and Presentation, across the CSE and EEE departments.
+
+<br>
 
 ## Selected Projects
 
@@ -49,40 +51,30 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 | Advanced-Task-Scheduler | CPU scheduling simulator implementing FCFS, SJF, Priority, and Round Robin algorithms | Python, Django |
 | Journey-Planner | Console application implementing Dijkstra's Algorithm and DFS for route planning over a graph-modeled map | C++ |
 
-## Skills
+<br>
 
-<div align="left">
+## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-2C3E50?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2C3E50?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=flat-square&logo=javascript&logoColor=white)
+<div align="center">
 
-**Web**
-![Django](https://img.shields.io/badge/Django-2C3E50?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2C3E50?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2C3E50?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-2C3E50?style=flat-square&logo=php&logoColor=white)
-
-**AI/ML**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2C3E50?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/Graph%20Neural%20Networks-2C3E50?style=flat-square&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2C3E50?style=flat-square)
-![Explainability](https://img.shields.io/badge/Explainability%20(SHAP%2FLIME)-2C3E50?style=flat-square)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-2C3E50?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2C3E50?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2C3E50?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-2C3E50?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-2C3E50?style=flat-square&logo=latex&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=python,cpp,csharp,js,django,html,css,php,mysql,sqlite,git,github,vscode,latex&theme=light)
 
 </div>
+
+**AI/ML focus:** graph neural networks, bio-inspired optimization (GA, PSO), NLP, RAG, explainability (SHAP, LIME)
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=C221213-Maisha&show_icons=true&hide_border=true&theme=default&title_color=2C3E50&icon_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C221213-Maisha&layout=compact&hide_border=true&theme=default&title_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="38%" />
+
+</div>
+
+<br>
 
 ## Certifications & Training
 
@@ -96,6 +88,8 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 - C++ Programming & Problem Solving Bootcamp Certificate, Phitron, 2024, awarded Best Performer
 - Front-End Development Bootcamp Certificate, Programming Hero, 2024
 
+<br>
+
 ## Academic Service
 
 **Data Annotator, IIUC Intra University Datathon 2026** (part of IIUC CSE Fest 2026)
@@ -104,16 +98,18 @@ Manually annotated 7,900+ image-text pairs for a disaster-related dataset within
 **Volunteer, IIUC Intra University Datathon 2026**
 Supported event operations for the datathon under IIUC CSE Fest 2026.
 
+<br>
+
 ## Education
 
 **B.Sc. in Computer Science and Engineering**
 International Islamic University Chittagong, Jan 2022 to 2026
 CGPA 3.72/4.00
 
----
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-maisha.mahfuza13%40gmail.com-2C3E50?style=flat-square&logo=gmail&logoColor=white)](mailto:maisha.mahfuza13@gmail.com)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=100&section=footer)
 
 </div>

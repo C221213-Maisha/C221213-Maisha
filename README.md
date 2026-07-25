@@ -82,12 +82,10 @@ Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programmi
 ![LaTeX](https://img.shields.io/badge/LaTeX-2C3E50?style=flat-square&logo=latex&logoColor=white)
 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=C221213-Maisha&show_icons=true&hide_border=true&theme=default&title_color=2C3E50&icon_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C221213-Maisha&layout=compact&hide_border=true&theme=default&title_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="38%" />
-
+<img src="https://github-stats-extended.vercel.app/api?username=C221213-Maisha&show_icons=true&hide_border=true&theme=default&title_color=2C3E50&icon_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=C221213-Maisha&layout=compact&hide_border=true&theme=default&title_color=2C3E50&text_color=333333&bg_color=FFFFFF00" width="38%" />
 </div>
 
 ## Certifications & Training

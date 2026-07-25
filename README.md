@@ -29,9 +29,11 @@ Research on graph-based multi-label node classification, focusing on learning un
 ## Experience
 
 **AI Technical Lead (Project-Based), Contradox**, Oct 2025 to present
+
 Lead a team building AI systems for real-world use, coordinating research, backend, and frontend work, and owning decisions on system architecture and model integration.
 
 **Teaching Assistant, IIUC**, Feb 2025 to present
+
 Machine Learning and Data Mining Lab, Competitive Programming I, C/C++ Programming Sessionals, and Technical Writing and Presentation, across the CSE and EEE departments.
 
 ## Selected Projects

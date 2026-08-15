@@ -147,7 +147,7 @@ Supported event operations for the datathon under IIUC CSE Fest 2026.
 
 ![Degree](https://img.shields.io/badge/B.Sc.-Computer%20Science%20%26%20Engineering-2C3E50?style=flat-square&logo=googlescholar&logoColor=white)
 ![University](https://img.shields.io/badge/IIUC-Jan%202022%20to%202026-2C3E50?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-3.72%2F4.00-2C3E50?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-3.73%2F4.00-2C3E50?style=flat-square)
 
 International Islamic University Chittagong
 

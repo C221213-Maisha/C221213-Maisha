@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Total contributions 219. Current streak 1 days. Longest streak 2 days.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Total contributions 219. Current streak 0 days. Longest streak 2 days.">
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.h{font-size:15px;font-weight:600;fill:#9DB7D5}.l{font-size:13px;fill:#8B949E}.v{font-size:13px;font-weight:600;fill:#E6EDF3}
 .in{opacity:0;animation:in .6s cubic-bezier(.2,.7,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .spin{transform-origin:500px 66px;transform-box:view-box;animation:spin 6s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.in{opacity:1}}</style>
@@ -8,9 +8,9 @@
 <text x="167" y="128" text-anchor="middle" class="v" style="font-size:14px">Total contributions</text>
 <text x="167" y="148" text-anchor="middle" class="l" style="font-size:12px">Oct 31, 2023 to present</text></g><line x1="333" y1="30" x2="333" y2="140" stroke="#30363D"/><circle cx="500" cy="66" r="38" fill="none" stroke="#1F2630" stroke-width="5"/>
 <circle class="spin" cx="500" cy="66" r="38" fill="none" stroke="#D4AC0D" stroke-width="5" stroke-linecap="round" stroke-dasharray="60 179"/><g class="in" style="animation-delay:0.25s">
-<text x="500" y="77" text-anchor="middle" style="font-size:30px;font-weight:700;fill:#E6EDF3">1</text>
+<text x="500" y="77" text-anchor="middle" style="font-size:30px;font-weight:700;fill:#E6EDF3">0</text>
 <text x="500" y="128" text-anchor="middle" class="v" style="font-size:14px">Current streak</text>
-<text x="500" y="148" text-anchor="middle" class="l" style="font-size:12px">Nov 26, 2026</text></g><line x1="666" y1="30" x2="666" y2="140" stroke="#30363D"/><g class="in" style="animation-delay:0.40s">
+<text x="500" y="148" text-anchor="middle" class="l" style="font-size:12px">No streak yet</text></g><line x1="666" y1="30" x2="666" y2="140" stroke="#30363D"/><g class="in" style="animation-delay:0.40s">
 <text x="833" y="74" text-anchor="middle" style="font-size:32px;font-weight:700;fill:#9DB7D5">2</text>
 <text x="833" y="128" text-anchor="middle" class="v" style="font-size:14px">Longest streak</text>
 <text x="833" y="148" text-anchor="middle" class="l" style="font-size:12px">Apr 30, 2025 to May 1, 2025</text></g></svg>
